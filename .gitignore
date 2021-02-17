@@ -11,9 +11,9 @@ docs/src
 .vs/
 projects/bin/*
 projects/x64/*
-projects/*/*.obj
-projects/*/*.o
-projects/*/*.so
-projects/*/*.exe
-projects/*/*.dll
+*.obj
+*.o
+*.so
+*.exe
+*.dll
 
