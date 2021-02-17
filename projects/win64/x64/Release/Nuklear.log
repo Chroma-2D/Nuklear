@@ -1,7 +1,0 @@
-﻿  nuklear.c
-     Creating library H:\Chroma2D\Nuklear\projects\win64\bin\Nuklear.lib and object H:\Chroma2D\Nuklear\projects\win64\bin\Nuklear.exp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 753 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Nuklear.vcxproj -> H:\Chroma2D\Nuklear\projects\win64\bin\Nuklear.dll
